@@ -34,7 +34,7 @@ SupportShield is designed as a first-response triage tool for common technical a
 
 ![SupportShield Account Security Analysis](screenshots/account-compromise-test.png)
 
-The frontend will be hosted using **AWS Amplify**.
+The frontend is deployed and hosted using **AWS Amplify**.
 
 ---
 
