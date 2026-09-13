@@ -18,7 +18,7 @@ SupportShield is designed as a first-response triage tool for common technical a
 
 ## Live Application
 
-**Live Demo:** Coming soon
+**Live Demo:** https://main.d11agh47utcj1i.amplifyapp.com
 
 The frontend will be hosted using **AWS Amplify**.
 
