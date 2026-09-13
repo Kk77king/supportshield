@@ -20,6 +20,20 @@ SupportShield is designed as a first-response triage tool for common technical a
 
 **Live Demo:** https://main.d11agh47utcj1i.amplifyapp.com
 
+## Screenshots
+
+### Main Interface
+
+![SupportShield Home](screenshots/supportshield-home.png)
+
+### Phishing Analysis
+
+![SupportShield Phishing Analysis](screenshots/supportshield-phishing.png)
+
+### Account Security Analysis
+
+![SupportShield Account Security Analysis](screenshots/supportshield-account-security.png)
+
 The frontend will be hosted using **AWS Amplify**.
 
 ---
