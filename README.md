@@ -24,15 +24,15 @@ SupportShield is designed as a first-response triage tool for common technical a
 
 ### Main Interface
 
-![SupportShield Home](screenshots/front-page.png)
+![SupportShield Home](screenshots/front page.png)
 
 ### Phishing Analysis
 
-![SupportShield Phishing Analysis](screenshots/phishing-email-test.png)
+![SupportShield Phishing Analysis](screenshots/phishing email test.png)
 
 ### Account Security Analysis
 
-![SupportShield Account Security Analysis](screenshots/account-compromise-test.png)
+![SupportShield Account Security Analysis](screenshots/account compromise test.png)
 
 The frontend will be hosted using **AWS Amplify**.
 
